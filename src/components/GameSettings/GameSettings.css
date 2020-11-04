@@ -1,0 +1,28 @@
+.GameSettings {
+  padding-top: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.GameSettings button {
+  margin: 10px 0 0 0 !important;
+}
+
+.Card {
+  padding: 0px;
+  margin: 0px;
+   
+}
+
+.SetBoardTo{
+
+  margin: 5px 0;
+
+}
+
+.SetLanguage{
+
+  margin: 5px 0;
+
+
+}

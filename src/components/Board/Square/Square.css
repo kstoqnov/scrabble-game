@@ -1,0 +1,19 @@
+.Square {
+  background-color: #e2e3e7;
+  box-sizing: border-box;
+  border: 1px solid #938159;
+  padding: 1px;
+  text-align: center;
+  position: relative;
+  border-radius: 2px;
+}
+
+.Selectable {
+  cursor: pointer;
+}
+
+@media (min-width: 600px) {
+  .Square {
+    border-radius: 3px;
+  }
+}

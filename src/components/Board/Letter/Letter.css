@@ -1,0 +1,38 @@
+.Letter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 50;
+  overflow: hidden;
+
+  border-radius: 2px;
+  text-align: center;
+  vertical-align: middle;
+
+  background-color: #48281d;
+  text-align: center;
+
+
+  color: #fff;
+  font-weight: bold;
+}
+
+@media (min-width: 600px) {
+  .Letter {
+    border-radius: 3px;
+  }
+}
+
+.Selectable {
+  cursor: pointer;
+}
+
+.Selected {
+  background-color: yellowgreen;
+}
+
+.Highlighted {
+  color: brown;
+}
