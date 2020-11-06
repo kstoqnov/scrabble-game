@@ -66,7 +66,7 @@ export default {
     'all-letterslin-the-same-row-or-column': 'За съжаление, думата трябва да е хоризонтална или вертикална!',
     'there-are-gaps': 'За съжаление няма свободни места!',
     'first-move-in-the-centre': 'Първата дума трябва да започва от звездата!',
-    'unknown-word': 'а съжаление думата "{unknownWords}" не е в речника ми.',
+    'unknown-word': 'за съжаление думата "{unknownWords}" не е в речника ми.',
     'unknown-words': 'За съжаление следните думи не са в речника ми: {unknownWords}.',
     'computer-has-run-out-of-tiles-the-end': 'Компютърът свърши с плочки, играта ще приключи сега.',
     'you-have-run-out-of-tiles-the-end': 'Изчерпали сте плочки, играта ще приключи сега.',
